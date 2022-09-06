@@ -3,5 +3,5 @@ Robust forecasting using multiple neural networks, every DNN is single step mult
 
 Here is one of the output graphs
 
-![Image](logo.png?raw=true)
+![Image](slide_previsionale.png?raw=true)
 
